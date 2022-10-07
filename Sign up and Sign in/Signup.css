@@ -1,0 +1,60 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+body{
+    background-image: url(3433826.jpg);
+    background-size: cover;
+    padding: 0px 60px;
+}
+.fill{
+     margin-top: -2px; 
+     display: flex;
+     text-align: center;
+     /* justify-content: center; */
+     flex-direction: column;
+margin-left: 968px;
+    /* background-color: aliceblue; */
+  
+}
+input{
+    margin-top: 10px;
+    width: 300PX;
+    height: 30px;
+}
+.fill h1{
+    margin-left: 52px;
+}
+.fill h4{
+    margin-left: 52px;
+}
+.details{
+
+    line-height: 100px;
+}
+.FirstName{
+    margin-top: 50px;
+}
+.LastName{
+    margin-top: 50px;
+}
+.Email{
+    margin-top: 50px;
+}
+.password{
+    margin-top: 50px;
+}
+.Confirmpassword{
+    margin-top: 50px;
+}
+.Country{
+margin-top: 50px;
+}
+.DateofBirth{
+    margin-top: 50px;
+}
+fat{
+    border-color: black;
+}

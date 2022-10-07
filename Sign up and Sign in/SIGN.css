@@ -1,0 +1,57 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+background-image: url(who21Ww-dc-comic-wallpaper.jpg);
+background-size: cover;
+}
+
+.form{
+    height: 1267px;
+    width: 1648px;
+    background-color: rgb(49, 45, 45);
+    margin-left: 1961px;
+    margin-top: 614px;
+}
+.form h1{
+font-size: 100px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.form h2{
+    font-size: 90px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.welcome{
+    margin-top: 50px;
+}
+.email{
+    align-items: center;
+    margin-left:102px ;
+    margin-top: 234px;
+    height: 184px;
+    width: 1362px;
+    font-size: 50px;
+    border: none;
+}
+.password{
+    align-items: center;
+    margin-left: 104px;
+    margin-top: 225px;
+    height: 184px;
+    width: 1357px;
+    font-size: 50px;
+    border: none;
+}
+.bat{
+background-color: black;
+height: 194px;
+width: 545px;
+border-radius: 10px;
+margin-top: 270px;
+margin-left: 510px;
+align-items: center;
+}

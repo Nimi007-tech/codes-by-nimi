@@ -1,0 +1,85 @@
+
+body{
+    background-color:  rgb(201, 232, 243);
+}
+.wrapper{
+    background-color: white;
+    height: 555px;
+    width: 397px;
+    border-radius: 9px;
+}
+.high{
+    background-color: rgb(25, 110, 189);
+    height: 44px;
+    width: 155.43px;
+    border: none;
+    border-radius: 9px;
+    margin-top: -106px;
+    margin-left: 64px;
+}
+.famous{
+background-color: rgb(158, 194, 207);
+margin-left: 65px;
+border: none;
+border-radius: 9px;
+height: 57px;
+width: 256.43px;
+margin-top: -6px;
+}
+.rock{
+    background-color: rgb(158, 194, 207);
+    margin-left: 65px;
+    border: none;
+    border-radius: 9px;
+    height: 57px;
+    width: 256.43px;
+    margin-top: 12px;
+}
+.details{
+    color: #fff;
+    font-size: 38px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 32px;
+}
+form{
+    width: 355px;
+    margin-left: -18px;
+    margin-top: 17px;
+    height: 248px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+    color: black;
+}
+form input{
+    width: 100%;
+    height: 14%;
+    padding: 7px;
+    border: none;
+    border: none;
+    border-radius: 6px;
+    outline: none;
+    font-size: 19px;
+    background-color:rgb(245, 238, 238);
+}
+
+
+
+
+.or{
+    margin-left: 90px;
+}
+.MAN{
+    margin-left: 474px;
+    margin-top: -576px;
+}
+.google{
+    height: 16px;
+    margin-left: -8px;
+}
+.Github{
+    height: 16px;
+    margin-left: -8px;
+}
